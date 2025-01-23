@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/personal-portfolio/static/css/main.e09dea9e.css",
     "main.js": "/personal-portfolio/static/js/main.7e9aac81.js",
     "static/js/488.9ec75b15.chunk.js": "/personal-portfolio/static/js/488.9ec75b15.chunk.js",
@@ -11,5 +12,32 @@
   "entrypoints": [
     "static/css/main.e09dea9e.css",
     "static/js/main.7e9aac81.js"
+=======
+    "main.css": "/personal-portfolio/static/css/main.aeea5007.css",
+    "main.js": "/personal-portfolio/static/js/main.9bf947e0.js",
+    "static/js/488.9ec75b15.chunk.js": "/personal-portfolio/static/js/488.9ec75b15.chunk.js",
+    "static/media/Snow5.png": "/personal-portfolio/static/media/Snow5.241905b2b668cb04d8c9.png",
+    "static/media/Snow2.png": "/personal-portfolio/static/media/Snow2.8efa675484d2e7edf986.png",
+    "static/media/Snow3.png": "/personal-portfolio/static/media/Snow3.dbd01f6b64e47cf62fea.png",
+    "static/media/Snow1.png": "/personal-portfolio/static/media/Snow1.b62719800bd5e96643ae.png",
+    "static/media/Snow4.png": "/personal-portfolio/static/media/Snow4.f02123cc02ccae85068e.png",
+    "static/media/Plant2.png": "/personal-portfolio/static/media/Plant2.fb91cd89f8fcd6fe9dd7.png",
+    "static/media/VotingImage3.png": "/personal-portfolio/static/media/VotingImage3.114da5ad20cf453ec105.png",
+    "static/media/VotingImage2.png": "/personal-portfolio/static/media/VotingImage2.bd5559660520e579479b.png",
+    "static/media/Plant3.png": "/personal-portfolio/static/media/Plant3.5314147049b2e34c1c0e.png",
+    "static/media/Plant1.png": "/personal-portfolio/static/media/Plant1.0c7b35bc9b012c0b48ba.png",
+    "static/media/VotingImage1.png": "/personal-portfolio/static/media/VotingImage1.ef426e63c135a3c046eb.png",
+    "static/media/Mentor2.png": "/personal-portfolio/static/media/Mentor2.5351edd4843eab5d94a7.png",
+    "static/media/Mentor3.png": "/personal-portfolio/static/media/Mentor3.9ee4c656721ba6160359.png",
+    "static/media/Mentor1.png": "/personal-portfolio/static/media/Mentor1.9486fb231d245b4e2b6e.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.aeea5007.css.map": "/personal-portfolio/static/css/main.aeea5007.css.map",
+    "main.9bf947e0.js.map": "/personal-portfolio/static/js/main.9bf947e0.js.map",
+    "488.9ec75b15.chunk.js.map": "/personal-portfolio/static/js/488.9ec75b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeea5007.css",
+    "static/js/main.9bf947e0.js"
+>>>>>>> origin/main
   ]
 }
